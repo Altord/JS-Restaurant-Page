@@ -1,0 +1,95 @@
+body{
+    background-color: lightblue;
+}
+
+.foodImage{
+    width: 125px;
+    height: 100px;
+
+}
+#lodge49{
+    width: 100px;
+    height: 110px;
+
+}
+.keto{
+    color: darkred;
+}
+#rest-tit{
+    color: #111947;
+    text-align: center;
+}
+.meals{
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 10px;
+
+}
+.items{
+
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.items:after {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 25%;
+    padding-top: 20px;
+    border-bottom: 3px groove #111947;
+    border-radius: 20px;
+}
+#drinks{
+    border-bottom: none;
+}
+#tabCont{
+    display: flex;
+    justify-content: center;
+
+}
+.tabs{
+    width: auto;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+
+
+}
+#content{
+
+    text-align: center;
+}
+#tabContent{
+    border: 5px solid #040435;
+    border-radius: 10px;
+    max-width: 60%;
+    min-width: 60%;
+    justify-content: center;
+    margin-left: 19.8%;
+    background-color: white;
+}
+#contactForm {
+    display: flex;
+    flex-direction: column;
+}
+
+#contactForm label {
+    padding-bottom: .8rem;
+}
+
+#contactForm input {
+    margin-bottom: 2rem;
+}
+
+#contactForm button {
+    margin-top: 1rem;
+}
+
+#phoneNumber {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+
+}
+#comment{
+    resize: none;
+}

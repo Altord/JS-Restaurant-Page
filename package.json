@@ -1,0 +1,24 @@
+{
+  "name": "JS-Restaurant-Page",
+  "version": "1.0.0",
+  "description": "No clue what this is yet so just testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Altord/JS-Restaurant-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Altord/JS-Restaurant-Page/issues"
+  },
+  "homepage": "https://github.com/Altord/JS-Restaurant-Page#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
