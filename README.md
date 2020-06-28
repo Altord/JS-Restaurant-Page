@@ -1,2 +1,2 @@
 # Restaurant Page
-No clue what this is yet so just testing
+Basic webpack practice, made a simple restaurant with tabs.
